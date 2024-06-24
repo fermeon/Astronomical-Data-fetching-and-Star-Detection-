@@ -1,4 +1,4 @@
-# Astronomical-Data-fetching-and-Star-Detectio
+# Astronomical-Data-fetching-and-Star-Detection
 
 This project focuses on visualizing astronomical data from FITS (Flexible Image Transport System) files using Python. It combines image processing techniques with World Coordinate System (WCS) information to create informative and visually appealing representations of celestial objects.
 Libraries used:
