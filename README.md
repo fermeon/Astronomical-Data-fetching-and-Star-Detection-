@@ -3,9 +3,9 @@
 This project focuses on visualizing astronomical data from FITS (Flexible Image Transport System) files using Python. It combines image processing techniques with World Coordinate System (WCS) information to create informative and visually appealing representations of celestial objects.
 Libraries used:
 
-Matplotlib: For creating the plot and handling color mapping
-Astropy: For working with FITS files and WCS data
-NumPy: For numerical operations on image data
+Matplotlib: For creating the plot and handling color mapping.
+Astropy: For working with FITS files and WCS data.
+NumPy: For numerical operations on image data.
 
 Data source:
 The FITS files used in this project are obtained from sky.esa.int, which is the European Space Agency's sky mapping resource. This platform provides a wealth of astronomical data from various missions and surveys.
